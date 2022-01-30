@@ -12,6 +12,6 @@ public class Main {
         char a = 'a'; // 2 байта
         boolean e = true; // 4 байта
 
-	// write your code here
+
     }
 }
